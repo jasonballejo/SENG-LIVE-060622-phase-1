@@ -105,4 +105,4 @@ const inventory = [
 function priceFormatter(price) {
   return "$" + price.toFixed(2);
 }
-priceFormatter(1.0);
+priceFormatter(5.0);
